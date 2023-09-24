@@ -11,6 +11,7 @@
 <body>
     <div class="container text-center">
         <h1 class="mt-5 text-primary">Hello World</h1>
+        <p>BENVENUTA {{ $nome }} {{ $cognome }}</p>
     </div>
 </body>
 </html>
